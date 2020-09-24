@@ -4,10 +4,6 @@ Desafio proposto no Bootcamp GoStack da Rocketseat, para reforçar o aprendizado
 
 Detalhes do desafio [clique aqui](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native) .
 
-### _Preview_
-
-![](/src/assets/gmkt.gif)
-
 
 
 
